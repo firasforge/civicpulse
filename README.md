@@ -1,5 +1,5 @@
 # CivicPulse: AI-Powered Civic Complaint & Action Platform
-### Built for the PromptWars × ASTRA Hackathon
+### Built for Hack2skill: From Complaints to Action
 
 > **CivicPulse** is an enterprise-grade, end-to-end civic complaint and dispatch intelligence system designed to eliminate municipal backlog. It unifies high-speed citizen reporting, Gemini 3.8 Flash understanding, spatial hotspot and cluster detection, and tactical decision-maker workflows into a single cohesive platform.
 
@@ -87,8 +87,8 @@ The application comes pre-loaded with **42 realistic civic reports** distributed
 
 ### 2. Installation
 ```bash
-git clone <repository-url>
-cd alvas
+git clone https://github.com/firasforge/civicpulse.git
+cd civicpulse
 npm install
 ```
 
